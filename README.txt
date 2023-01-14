@@ -2,7 +2,7 @@
 
 ## Code for ADCoC
 
-## To reproduce clustering results in the paper, simply run ADCoC.m. 
+## To reproduce clustering results in the paper, please unzip nmfv1_4.rar and gendata.rar before running ADCoC.m. 
    The results (adjusted Rand indices) will be stored in ADCoC_Results_ARI.txt.
 
 ## To set up the experiments from scartch, run the following scripts:
