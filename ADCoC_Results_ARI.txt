@@ -1,0 +1,18 @@
+
+8 Feature Clusters
+KMeans:0.211	CC:0.243	iter1:0.310	ADCoC:0.294
+KMeans:0.274	CC:0.232	iter1:0.369	ADCoC:0.428
+KMeans:0.243	CC:0.272	iter1:0.429	ADCoC:0.416
+KMeans:0.211	CC:0.235	iter1:0.318	ADCoC:0.398
+
+8 Feature Clusters
+KMeans:0.211	CC:0.268	iter1:0.269	ADCoC:0.292
+KMeans:0.274	CC:0.232	iter1:0.369	ADCoC:0.428
+KMeans:0.243	CC:0.272	iter1:0.429	ADCoC:0.416
+KMeans:0.211	CC:0.235	iter1:0.318	ADCoC:0.392
+
+8 Feature Clusters
+KMeans:0.211	CC:0.243	iter1:0.310	ADCoC:0.306
+KMeans:0.274	CC:0.232	iter1:0.369	ADCoC:0.428
+KMeans:0.243	CC:0.272	iter1:0.429	ADCoC:0.416
+KMeans:0.211	CC:0.235	iter1:0.318	ADCoC:0.398
